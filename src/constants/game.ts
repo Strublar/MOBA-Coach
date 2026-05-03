@@ -1,0 +1,9 @@
+export const MAP_WIDTH = 1600 as const
+export const MAP_HEIGHT = 900 as const
+export const TICK_MS = 100 as const
+export const SPAWN_INTERVAL_MS = 10000 as const
+export const LANE_COUNT = 3 as const
+export const TEAMS = ['blue', 'red'] as const
+export const MOBILE_ORIENTATION = 'landscape' as const
+export const HERO_COUNT_PER_TEAM = 5 as const
+export const STRATEGY_INTERVAL_MS = 5000 as const
